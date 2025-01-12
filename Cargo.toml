@@ -1,0 +1,8 @@
+[package]
+name = "rust-icmp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4.3"
+tun-tap = "0.1.4"
